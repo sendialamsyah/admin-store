@@ -8,8 +8,8 @@ import { ModalProvider } from "@/providers/modal-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Oxline Store",
-  description: "Oxline Store",
+  title: "Oxline Admin Store",
+  description: "Oxline Admin Store",
 };
 
 export default function RootLayout({
